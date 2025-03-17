@@ -1,0 +1,38 @@
+3rd party liscences
+---
+
+## . Third-Party Libraries
+This project uses the following external libraries, which are subject to their own licenses:
+
+### pymavlink
+- **License:** LGPL-3.0  
+- **Source:** https://github.com/ArduPilot/pymavlink  
+- **Summary:** LGPL allows modification and distribution, but changes to the library itself must remain open-source.
+### pyqt
+- **License:** LGPL-3.0  
+- **Source:** https://riverbankcomputing.com/software/pyqt/license 
+- **Summary:** PyQt is available under GPL-3.0 for open-source use. If your project is proprietary and not open-source, a commercial license is required..
+
+
+### numpy (if used)
+- **License:** BSD 3-Clause  
+- **Source:** https://numpy.org/license.html  
+- **Summary:** Permissive, allows free use and redistribution.
+
+---
+
+## . Hardware & Firmware  
+- **ArduPilot Firmware:**  
+  - **License:** GPL-3.0  
+  - **Source:** https://github.com/ArduPilot/ardupilot  
+  - **Summary:** Requires derivatives to also be open-source under GPL-3.0.
+
+---
+
+## 4. Documentation & Media  
+All documentation, README files, and images are licensed under:  
+
+**Creative Commons Attribution 4.0 (CC BY 4.0)**  
+- **Details:** https://creativecommons.org/licenses/by/4.0/
+
+
